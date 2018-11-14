@@ -1,0 +1,29 @@
+
+h1{
+color: red;
+}
+p {
+  color: blue;
+  font-family: Helvetica;
+  font-size: 16px;
+}
+ul {
+  background-color: red;
+  padding: 10px;
+}
+ul li {
+  background-color: yellow;
+  margin: 5px;
+}
+ h2 {
+ color: green;
+ background-color: orange;
+}
+p {
+color: blue;
+font-family: Helvetica;
+font-size: 16px;
+}
+ol li {
+  background-color: teal;
+}
